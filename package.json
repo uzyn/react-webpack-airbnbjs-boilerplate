@@ -1,8 +1,7 @@
 {
-  "name": "spotmon",
+  "name": "react-webpack-airbnbjs-boilerplate",
   "version": "1.0.0",
-  "description": "Spot instances monitor [WIP]",
-  "main": "index.js",
+  "description": "Boilerplate for React and Webpack following Airbnb's JavaScript (ES6) Style Guide.",
   "scripts": {
     "start": "webpack-dev-server --inline --content-base build/",
     "lint": "eslint --ext=js --ext=jsx --ignore-path .gitignore .",
@@ -10,14 +9,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uzyn/spotmon.git"
+    "url": "https://github.com/uzyn/react-webpack-airbnbjs-boilerplate"
   },
-  "author": "",
+  "keywords": [
+    "react",
+    "webpack",
+    "airbnb",
+    "styleguide",
+    "eslint",
+    "template",
+    "boilerplate",
+    "starter",
+    "babel"
+  ],
+  "author": "U-Zyn Chua <chua@uzyn.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uzyn/spotmon/issues"
+    "url": "https://github.com/uzyn/react-webpack-airbnbjs-boilerplate/issues"
   },
-  "homepage": "https://github.com/uzyn/spotmon#readme",
+  "homepage": "https://github.com/uzyn/react-webpack-airbnbjs-boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.7.7",
     "babel-loader": "^6.2.4",
