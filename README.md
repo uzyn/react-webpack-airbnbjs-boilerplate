@@ -41,3 +41,6 @@ Boilerplate for React and Webpack following [Airbnb's JavaScript (ES6) Style Gui
 
 This boilerplate is inspired by [jkup/webpack-react-starter](https://github.com/jkup/webpack-react-starter).
 
+## License
+
+MIT · [U-Zyn Chua](http://uzyn.com)
